@@ -2,83 +2,83 @@
 
 Android & Arduino & Raspberry Pi Note
 
-All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
+All Project [Code](https://github.com/ShangHong-CAI/ariod-ho-book/tree/master/Code/)
 
 
 ## Class Note
 
-1. 簡單的 UI 操作 - [C01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C01.md)
+1. 簡單的 UI 操作 - [C01](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C01.md)
 
-2. 填資料並跳轉顯示結果與 OnClickListener 使用 - [C02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C02.md)
+2. 填資料並跳轉顯示結果與 OnClickListener 使用 - [C02](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C02.md)
 
-3. ListView 練習 - [C03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C03.md)
+3. ListView 練習 - [C03](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C03.md)
 
-4. SeekBar 練習 - [C04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C04.md)
+4. SeekBar 練習 - [C04](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C04.md)
 
-5. Arduino 藍芽連線確認 - [C04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C04.md)
+5. Arduino 藍芽連線確認 - [C04](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C04.md)
 
-6. Android SDK 藍芽紀錄 - [C05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C05.md)
+6. Android SDK 藍芽紀錄 - [C05](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C05.md)
 
-7. Arduino 與 LM35 溫度測試 - [C06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C06.md)
+7. Arduino 與 LM35 溫度測試 - [C06](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C06.md)
 
-8. Arduino 與 可變電阻與 LED 控制 - [C07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C07.md)
+8. Arduino 與 可變電阻與 LED 控制 - [C07](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C07.md)
 
-9. Android 對 SDCard 寫入 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
+9. Android 對 SDCard 寫入 - [C08](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C08.md)
 
-10. Android 對 SQLite 練習 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
+10. Android 對 SQLite 練習 - [C08](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C08.md)
 
-11. Android 開啟畫面分頁 - [C09](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C09.md)
+11. Android 開啟畫面分頁 - [C09](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C09.md)
 
-12. Android WebView 補充 - [C09](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C09.md)
+12. Android WebView 補充 - [C09](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C09.md)
 
-13. Android JSON處理 - [C10]()
+13. Android JSON處理 - [C10](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/C10.md)
 
 
 ## Android Book
 
-1. 建立一個 Android Project - [B01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B01.md)
+1. 建立一個 Android Project - [B01](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B01.md)
 
-2. 用 Button 控制畫面 TextView 的字體大小 - [B02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B02.md)
+2. 用 Button 控制畫面 TextView 的字體大小 - [B02](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B02.md)
 
-3. 用 EditText 輸入文字改變 TextView - [B02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B02.md)
+3. 用 EditText 輸入文字改變 TextView - [B02](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B02.md)
 
-4. 建立一個聯絡人輸入畫面，並說明 LinearLayout 等 Layout 處理 - [B03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B03.md)
+4. 建立一個聯絡人輸入畫面，並說明 LinearLayout 等 Layout 處理 - [B03](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B03.md)
 
-5. 字體色彩練習 - [B03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B03.md)
+5. 字體色彩練習 - [B03](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B03.md)
 
-6. 加減處理的事件練習 - [B04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B04.md)
+6. 加減處理的事件練習 - [B04](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B04.md)
 
-7. Touch 控制手機震動 - [B04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B04.md)
+7. Touch 控制手機震動 - [B04](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B04.md)
  
-8. RadioButton 的購票頁面 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+8. RadioButton 的購票頁面 - [B05](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B05.md)
 
-9. RadioButton 的溫度轉換 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+9. RadioButton 的溫度轉換 - [B05](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B05.md)
 
-10. CheckBox 的點餐頁面 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+10. CheckBox 的點餐頁面 - [B05](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B05.md)
 
-11. ImageView 的練習 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+11. ImageView 的練習 - [B05](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B05.md)
 
-12. Spinner 下拉購票選單練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+12. Spinner 下拉購票選單練習 - [B06](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B06.md)
 
-13. Spinner 與 EditText 的運動計算 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+13. Spinner 與 EditText 的運動計算 - [B06](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B06.md)
 
-14. ListView 點餐練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+14. ListView 點餐練習 - [B06](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B06.md)
 
-15. ListView 購票 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+15. ListView 購票 - [B06](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B06.md)
 
-16. AdapterView 與 Spinner 點餐練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+16. AdapterView 與 Spinner 點餐練習 - [B06](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B06.md)
 
-17. Toast 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+17. Toast 練習 - [B07](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B07.md)
 
-18. Snackbar 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+18. Snackbar 練習 - [B07](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B07.md)
 
-19. Alert 顯示 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+19. Alert 顯示 - [B07](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B07.md)
 
-20. Alert 交談練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+20. Alert 交談練習 - [B07](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B07.md)
 
-21. 日期時間選擇 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+21. 日期時間選擇 - [B07](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B07.md)
 
-22. Intent 頁面切換練習 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
+22. Intent 頁面切換練習 - [B08](https://github.com/ShangHong-CAI/ariod-ho-book/blob/master/Note/B08.md)
 
 23. 備忘錄練習 Intent 傳值 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
 
